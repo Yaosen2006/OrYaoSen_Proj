@@ -1,0 +1,6 @@
+@OrYaoSen_Proj_HostAddress = http://localhost:5204
+
+GET {{OrYaoSen_Proj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
